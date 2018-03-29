@@ -1,0 +1,14 @@
+.container {
+  width: 180px;
+  margin: auto;
+}
+
+.header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.title {
+  font-size: 1.5em;
+}
